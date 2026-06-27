@@ -1,6 +1,3 @@
-# Bachelor-Thesis-Bird-Drone-Strike
-Bachelor thesis on bird strike and drone strike risk mitigation in the aeronautical industry.
-
 # Bachelor Thesis – Bird Strike and Drone Strike Risk Mitigation
 
 This repository contains my Bachelor’s thesis in Aerospace Engineering at Politecnico di Torino.
